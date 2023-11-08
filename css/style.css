@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.profile_pic{
+
+}
+
+.profile_pic > img{
+
+
+}
+
+.profile_info{
+
+
+}
+
+tr,td,table,th,tbody,thead{
+    margin:  0;
+    padding: 0;
+    border-spacing: 0;
+}
+
+th,td{
+    border: 1px solid black;
+}
